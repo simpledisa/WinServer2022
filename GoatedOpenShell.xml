@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.4.191">
+	<ShiftClick value="ClassicMenu"/>
+	<ShiftWin value="ClassicMenu"/>
+	<MiddleClick value="ClassicMenu"/>
+	<AllProgramsMetro value="0"/>
+	<RecentPrograms value="None"/>
+	<HighlightNew value="0"/>
+	<CheckWinUpdates value="0"/>
+	<EnableAccessibility value="0"/>
+	<MenuShadow value="0"/>
+	<EnableGlass value="0"/>
+	<GlassOverride value="1"/>
+	<GlassColor value="0"/>
+	<SkinW7 value="Immersive"/>
+	<SkinVariationW7 value=""/>
+	<SkinOptionsW7>
+		<Line>USER_IMAGE=1</Line>
+		<Line>SMALL_ICONS=0</Line>
+		<Line>LARGE_FONT=0</Line>
+		<Line>ICON_FRAMES=1</Line>
+		<Line>OPAQUE=0</Line>
+	</SkinOptionsW7>
+	<SkipMetro value="1"/>
+</Settings>
